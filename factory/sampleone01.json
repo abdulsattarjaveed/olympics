@@ -1,0 +1,9 @@
+{
+	"name": "sampleone01",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa1f18d9-4113-4c41-9bd1-628e39027b20",
+		"tenantId": "3f6c96c7-85d2-4daa-b537-8ea267b5db9f"
+	}
+}
